@@ -6,12 +6,12 @@ spring:
 # 开发环境
 spring:
   application:
-  name: abcmsc-config-dev
+    name: abcmsc-config-dev
   profiles: dev
 
 ---
 # 测试环境
 spring:
   application:
-  name: abcmsc-config-test
+    name: abcmsc-config-test
   profiles: test
